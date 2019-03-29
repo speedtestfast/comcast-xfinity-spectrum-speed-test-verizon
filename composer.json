@@ -1,7 +1,7 @@
 {
     "name": "speedtestfast/comcast-xfinity-spectrum-speed-test-verizon",
     "description": "Speedtestfast.com Framework.",
-    "keywords": ["framework", "speed test fast"],
+    "keywords": ["framework", "speedtestfast"],
     "license": "MIT",
     "type": "project",
     "require": {
