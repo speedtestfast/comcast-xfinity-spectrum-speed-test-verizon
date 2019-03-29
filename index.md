@@ -1,5 +1,5 @@
 
-This application is a definite copy of https:speedtestfast.com & this may use our premium servers to check user line speed. you're adding this application as a gadget on your webpage. rather than causation your guests to different web sites for testing net speed you'll have this application on your website itself.
+This application is a definite copy of https://speedtestfast.com & this may use our premium servers to check user line speed. you're adding this application as a gadget on your webpage. rather than causation your guests to different web sites for testing net speed you'll have this application on your website itself.
 
 This is AN Example for adding this gadget on a responsive webpage. size your browser window to examine however it works for various screen sizes. conjointly you would like to regulate the CSS values for an ideal work on your style.
 
